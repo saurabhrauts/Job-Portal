@@ -3,7 +3,7 @@ import axios from "axios";
 // base URL
 const API = axios.create({
 
-  baseURL: "http://localhost:8000/api/v1",
+  baseURL: "https://job-portal-ftxy.onrender.com/api/v1",
 
   withCredentials: true
 
