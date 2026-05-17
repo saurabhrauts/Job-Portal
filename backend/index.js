@@ -24,7 +24,7 @@ app.use(cookieParser());
 // 🔥 CORS FIX
 const corsOption = {
 
-  origin: "https://job-portal.vercel.app",
+  origin: "https://job-portal-one-navy-48.vercel.app",
 
   credentials: true
 
